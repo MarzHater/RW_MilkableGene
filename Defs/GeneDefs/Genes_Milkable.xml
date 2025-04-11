@@ -1,0 +1,14 @@
+<Defs>
+
+<GeneDef>
+  <defName>MilkableGene</defName>
+  <label>lactating</label>
+  <description>This gene enables the pawn to be milked. Produces human milk every 2 days.</description>
+  <geneClass>RimWorldMilking.Gene_Milkable</geneClass>
+  <displayCategory>Healing</displayCategory>
+  <displayOrderInCategory>10</displayOrderInCategory>
+  <iconPath>Things/Item/Resource/StrangeMilk</iconPath>
+  <biostatCpx>2</biostatCpx>
+</GeneDef>
+
+</Defs>

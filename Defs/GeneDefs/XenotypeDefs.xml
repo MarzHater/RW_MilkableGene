@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<XenotypeDef>
+  <defName>TestMilkableXeno</defName>
+  <label>milkable test</label>
+  <iconPath>Things/Item/Resource/StrangeMilk</iconPath>
+  <genes>
+    <li>MilkableGene</li>
+  </genes>
+</XenotypeDef>
+
+</Defs>

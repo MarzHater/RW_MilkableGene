@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MilkableGene\Assemblies\net48\RimWorldMilking.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MilkableGene\Assemblies\net48\RimWorldMilking.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MilkableGene\Source\MilkableGene\obj\Release\net48\RimworldMilking.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MilkableGene\Source\MilkableGene\obj\Release\net48\RimworldMilking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MilkableGene\Source\MilkableGene\obj\Release\net48\RimworldMilking.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MilkableGene\Source\MilkableGene\obj\Release\net48\RimworldMilking.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MilkableGene\Source\MilkableGene\obj\Release\net48\RimworldMilking.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MilkableGene\Source\MilkableGene\obj\Release\net48\Rimworld.A198617D.Up2Date
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MilkableGene\Source\MilkableGene\obj\Release\net48\RimWorldMilking.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MilkableGene\Source\MilkableGene\obj\Release\net48\RimWorldMilking.pdb

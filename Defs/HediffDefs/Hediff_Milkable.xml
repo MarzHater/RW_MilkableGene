@@ -1,0 +1,16 @@
+<Defs>
+
+<HediffDef>
+  <defName>HumanMilkableHediff</defName>
+  <hediffClass>HediffWithComps</hediffClass>
+  <label>milkable</label>
+  <description>milkies</description>
+  <comps>
+    <li Class="RimWorldMilking.HediffCompProperties_Milkable">
+      <milkIntervalDays>2</milkIntervalDays>
+      <milkAmount>10</milkAmount>
+    </li>
+  </comps>
+</HediffDef>
+
+</Defs>

@@ -1,0 +1,27 @@
+<Defs>
+
+<ThingDef ParentName="ResourceBase">
+  <defName>StrangeMilk</defName>
+  <label>Milk? it sure looks like it</label>
+  <description>Milk harvested from a pawn with the appropriate gene.</description>
+  <graphicData>
+    <texPath>Things/Item/Resource/StrangeMilk</texPath>
+    <graphicClass>Graphic_Single</graphicClass>
+  </graphicData>
+  <socialPropernessMatters>True</socialPropernessMatters>
+  <statBases>
+    <MarketValue>5.0</MarketValue>
+    <Mass>0.25</Mass>
+    <Nutrition>0.05</Nutrition>
+  </statBases>
+  <ingestible>
+    <foodType>Meal</foodType>
+    <preferability>RawTasty</preferability>
+    <!-- <tasteThought>DrankMilk</tasteThought> -->
+  </ingestible>
+  <thingCategories>
+    <li>Foods</li>
+  </thingCategories>
+</ThingDef>
+
+</Defs>
